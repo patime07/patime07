@@ -10,4 +10,4 @@ I am a senior Computer Science student at Al Akhawayn University with a concentr
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{patime07}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/patime07/count.svg)
