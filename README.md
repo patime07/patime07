@@ -9,5 +9,4 @@ I am a senior Computer Science student at Al Akhawayn University with a concentr
 
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/patime07/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=patime07&color=blue)
