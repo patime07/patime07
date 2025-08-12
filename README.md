@@ -7,3 +7,7 @@ I am a senior Computer Science student at Al Akhawayn University with a concentr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patime07&layout=compact&theme=light&langs_count=10)
 
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/{patime07}/count.svg)
