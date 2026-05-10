@@ -1,4 +1,4 @@
-# Fatima zahra iguenfer
+# Fatima Zahra Iguenfer
 
 **`Patime (CS student/Research enthusiast/Blogger)`**
 
